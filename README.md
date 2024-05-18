@@ -24,10 +24,10 @@ remote_ratio: The ratio of remote work allowed for the position.
 company_size: The size of the company based on employee count or revenue.
 
 # Team Members 
-Kardo Sherzad
+Bryar Ghafur
 
 Rawyar Salar 
 
-Bryar Ghafur
+Kardo Sherzad
 
 Hardi Ali
